@@ -1,0 +1,19 @@
+Elements of game designing:
+1)Characters(PC&NPC)
+PC-2
+NPC-3(Teleport Pad, Obstacles, Turbo)
+2)Story-
+	A race is between 2 people for $1M. They have to cross the finish line first. There are two things that can help you teleport pad and turbo to 
+help you cross the finish line first. Just before the race was about to start your opponent added obstacles on the course making the race harder.
+3)Goal-
+Cross the finish line first
+4)Rules-
+i)You lose if the opponent crosses the finish line before you
+ii)The obstacles will lower the speed of your car
+iii)The teleport pad will teleport you to the next checkpoint
+iv)The turbo increases the speed of your car
+5)Balance-
+The obstacles decrease your speed by 20 and turbo increases your speed by 10 and teleport pad will teleport you ahead
+6)Adaptivity-After every ckeckpoint there will be more obstacles and less turbo and teleport pads
+7)Chance Vs Skill- NPC have a chance of spwaning where they have spawned and to move the car you will use WASD.
+8)Feedback-If you lose there will be a Sweet-Alert message and if you win there will be winning music and Sweet-Alert message
